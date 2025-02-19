@@ -1,0 +1,9 @@
+{
+	"recommendations": [
+		"golang.go",
+		"fill-labs.dependi",
+		"streetsidesoftware.code-spell-checker",
+		"editorconfig.editorconfig",
+		"vadimcn.vscode-lldb"
+	]
+}

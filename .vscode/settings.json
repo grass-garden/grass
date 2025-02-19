@@ -1,0 +1,21 @@
+{
+	"editor.defaultFormatter": "golang.go",
+	"editor.formatOnSave": true,
+	"cSpell.enabled": true,
+	"cSpell.ignorePaths": [
+		"**/.vscode",
+		"**/.golangci.yml",
+		"**/go.mod",
+		"**/go.sum"
+	],
+	"cSpell.words": [
+		"datamodel",
+		"gobeam",
+		"golangci",
+		"libopenapi",
+		"omitzero",
+		"orderedmap",
+		"samber",
+		"typetostring"
+	]
+}
